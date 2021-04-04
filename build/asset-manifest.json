@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/EricOgbe.github.io/contacts-app/static/js/main.a3604650.chunk.js",
+    "main.js.map": "/EricOgbe.github.io/contacts-app/static/js/main.a3604650.chunk.js.map",
+    "runtime-main.js": "/EricOgbe.github.io/contacts-app/static/js/runtime-main.c92e8485.js",
+    "runtime-main.js.map": "/EricOgbe.github.io/contacts-app/static/js/runtime-main.c92e8485.js.map",
+    "static/js/2.41d2c938.chunk.js": "/EricOgbe.github.io/contacts-app/static/js/2.41d2c938.chunk.js",
+    "static/js/2.41d2c938.chunk.js.map": "/EricOgbe.github.io/contacts-app/static/js/2.41d2c938.chunk.js.map",
+    "index.html": "/EricOgbe.github.io/contacts-app/index.html",
+    "precache-manifest.3ffce7272c5f2fb9c338105f0a127ca7.js": "/EricOgbe.github.io/contacts-app/precache-manifest.3ffce7272c5f2fb9c338105f0a127ca7.js",
+    "service-worker.js": "/EricOgbe.github.io/contacts-app/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c92e8485.js",
+    "static/js/2.41d2c938.chunk.js",
+    "static/js/main.a3604650.chunk.js"
+  ]
+}
