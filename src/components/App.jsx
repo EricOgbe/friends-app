@@ -2,6 +2,7 @@ import React from "react";
 import Card from "./Card.js";
 import contacts from "../contacts.js";
 import Avatar from "./Avatar.js"
+import CreateCard from "./CreateCard.js"
 
 
 var bluepic = "./components/bluepic.jpg"
